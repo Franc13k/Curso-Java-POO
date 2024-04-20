@@ -1,0 +1,8 @@
+ENCAPSULAMENTO
+
+Encapsulamento é basicamente uma cápsula, serve para criar uma proteção e um padrão.
+Ocultar partes independentes da implementação, permitindo construir partes invisiveis ao mundo exterior.
+
+INTERFACE
+Lista de serviços fornecidps por um componente. É o contato com o mundo exterior, que define o que pode
+se feito com um objeto dessa classe.

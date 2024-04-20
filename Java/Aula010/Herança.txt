@@ -1,0 +1,7 @@
+HERANÇA
+
+Permite basear uma nova classe na definição de uma outra classe existente.
+Basicamente eu tenho uma classe que já existia e preciso criar uma classe nova, logo, não vou precisar criar essa classe do zero, 
+então faço ela baseada na primeira e ela vai herdar caracteristicas da classe que ja existia, ou seja, ela é a classe mãe.
+
+A herança será aplicada tanto para as caracteristicas quanto para os comportamentos.

@@ -1,0 +1,10 @@
+THIS
+
+Ex:.
+this.tampada(); 
+
+this é o nome do objeto que chamou, no caso c1, então na classe Caneta o c1 será substituido por this.
+this é uma referência ao próprio objeto que chamou
+
+OBS: SEMPRE QUE FOR MODIFICAR ALGUM ATRIBUTO DENTRO DA PRÓPRIA CLASSE COLOQUE A PALAVRA "this" NA FRENTE DA LINHA
+QUE VAI MEXER NESSE ATRIBUTO.

@@ -1,0 +1,17 @@
+POLIMORFISMO
+
+POLI = MUITAS
+MORFO = FORMAS
+
+Muitas formas de fazer alguma coisa.
+Permite que o mesmo nome(métodos) represente vários comportamentos diferentes.
+
+TIPOS DE POLIMORFISMO
+1 - Sobreposição @Override
+    Acontece quando substituímos um método de uma superclasse na sua subclasse, usando a mesma assinatura.
+    Mesma assinatura e classes diferentes
+
+2 - Sobrecarga
+    Acontece quando criamos variações do mesmo método, ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe.
+    Assinaturas diferentes e mesma classe
+    

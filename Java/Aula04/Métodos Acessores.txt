@@ -1,0 +1,19 @@
+MÉTODOS ACESSORES
+
+GETTER
+O método Getter é o método que você consegue pegar ou acessar alguma coisa que está dentro do objeto.
+Ex:. Quero saber o saldo da minha conta --> getSaldo()
+não possuem parâmetros
+
+SETTER
+O método Setter modifica coisas que estão dentro do objeto. 
+Ex:. Quero colocar ou depositar saldo na minha conta --> setSaldo(s)
+Obrigatoriamente possuem parâmetros
+
+MÉTODOS CONSTRUTOR
+Sempre que eu instanciar um objeto, ele vai executar tudo o que está dentro do método construtor.
+Ex:. Quando eu criar um objeto baseado numa classe, automaticamente ele vai executar os comandos que estão dentro do método construtor.
+
+Ex:. cor = "Azul"
+O objeto criado será padronizado na cor Azul
+O método construtor também pode receber parâmetros
